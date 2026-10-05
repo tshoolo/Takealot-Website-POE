@@ -1,0 +1,51 @@
+# Takealot Website Project
+
+## Project Overview
+
+This project is a responsive website redesign concept for Takealot. The website is designed to provide users with a simple and user-friendly way to browse products, view product information, and navigate between different sections.
+
+## Website Purpose
+
+The purpose of the website is to create a clear and accessible online shopping experience where users can easily find products and access important information.
+
+## Target Audience
+
+The website is aimed at online shoppers who use e-commerce platforms to search for products, compare available options, and make purchasing decisions. It is designed to be easy to navigate for users with different levels of experience with online shopping.
+
+## Website Features
+
+* Homepage
+* Product browsing
+* Product information
+* Search functionality
+* Navigation menu
+* Contact information
+* Responsive design
+
+## Technologies Used
+
+* HTML
+* CSS
+* JavaScript
+
+## Project Structure
+
+The project contains separate files and folders for the website pages, styling, scripts, research, and images.
+
+## Author
+
+Takealot Website Project
+## Part 2 Changelog
+
+### 04 October 2026
+
+- Updated the website with an external CSS stylesheet.
+- Added a CSS reset for consistent styling.
+- Improved typography using different font sizes, font weights and line spacing.
+- Added Flexbox and Grid layouts.
+- Added colours, backgrounds, borders and box shadows.
+- Added hover and focus effects to buttons and navigation links.
+- Added responsive styling for desktop, tablet and mobile screens.
+- Added responsive image styling.
+- Improved spacing and layout across the website.
+- Tested the website to make sure the CSS works correctly across the pages.
